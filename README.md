@@ -2,7 +2,7 @@
 -----
 ## Introduction
 
-This is the official implementation for DR-Former.
+This is the official implementation for GarNet.
 
 The official code will be updated after the paper is published
 
