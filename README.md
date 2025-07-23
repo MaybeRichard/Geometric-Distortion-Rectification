@@ -1,4 +1,4 @@
-# Generic Geometric Distortion Rectification Framework Based on Transformer
+# GarNet: Geometry-Aware Rectification Network for Generic Image Distortions 
 -----
 ## Introduction
 
